@@ -54,3 +54,5 @@ Detailed Functionality
 WindowManager.js handles the lifecycle of multiple browser windows, including creation, synchronization, and removal. It uses localStorage to maintain state across windows.
 main.js initializes the 3D scene using Three.js, manages the window's resize events, and updates the scene based on window interactions.
 >>>>>>> 4a17cbdca315c3586a61a561040dc120c98afc06
+![Screenshot (14)](https://github.com/aliabbasiudev/3D/assets/139762761/22a00fe2-5884-4ce6-9f74-7a68d4916fb7)
+![Screenshot (13)](https://github.com/aliabbasiudev/3D/assets/139762761/1492f167-12dd-4eef-85f1-4b1a350a4669)
